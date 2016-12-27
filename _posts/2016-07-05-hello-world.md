@@ -10,4 +10,4 @@ published: true
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
 
-<img class="size-medium wp-image-8 aligncenter" src="http://test.co/wp-content/uploads/2016/05/image2_2-1-300x150.png" alt="image2_2-1" width="300" height="150" />
+<img class="size-medium aligncenter" src="https://easyerp.com/wp-content/uploads/2016/03/open-source-EasyERP-Job-Positions-management-645x415.jpg" alt="" width="645" height="415" />
