@@ -8,38 +8,29 @@ layout: page
 permalink: http://test.co/vike-player/
 published: true
 product_template:
-  - vike
+  - 'a:1:{i:0;s:4:"vike";}'
 menu_color:
-  - white
+  - 'a:1:{i:0;s:5:"white";}'
 vike_title:
-  - VIKE PLAYER
+  - 'a:1:{i:0;s:11:"VIKE PLAYER";}'
 vike_logo:
-  - >
-    http://vike.io/wp-content/uploads/2016/07/logo.svg
+  - 'a:1:{i:0;s:50:"http://vike.io/wp-content/uploads/2016/07/logo.svg";}'
 vike_description:
-  - >
-    Fast 360 photo viewer and video player
-    for iOS. Available as a component and
-    can be easily integrated into existing
-    application. SDK come with documentation
+  - 'a:1:{i:0;s:156:"Fast 360 photo viewer and video player for iOS. Available as a component and can be easily integrated into existing application. SDK come with documentation";}'
 vike_curved_line:
-  - >
-    http://vike.io/wp-content/uploads/2016/07/curvedLines.png
+  - 'a:1:{i:0;s:57:"http://vike.io/wp-content/uploads/2016/07/curvedLines.png";}'
 vike_view_models_title:
-  - View modes
+  - 'a:1:{i:0;s:10:"View modes";}'
 vike_view_models_subtitle:
-  - VikePlayer has 4 view modes
+  - 'a:1:{i:0;s:27:"VikePlayer has 4 view modes";}'
 vike_menu_icon:
-  - >
-    http://vike.io/wp-content/uploads/2016/07/VikePlayer.png
+  - 'a:1:{i:0;s:56:"http://vike.io/wp-content/uploads/2016/07/VikePlayer.png";}'
 vike_bg_image:
-  - >
-    http://vike.io/wp-content/uploads/2016/07/shark.webm
+  - 'a:1:{i:0;s:52:"http://vike.io/wp-content/uploads/2016/07/shark.webm";}'
 vike_bg_image_2:
-  - >
-    http://vike.io/wp-content/uploads/2016/07/shark.mp4
+  - 'a:1:{i:0;s:51:"http://vike.io/wp-content/uploads/2016/07/shark.mp4";}'
 twitterCardType:
-  - summary
+  - 'a:1:{i:0;s:7:"summary";}'
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 <blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>

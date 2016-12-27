@@ -8,6 +8,6 @@ layout: page
 permalink: http://test.co/rr/
 published: true
 meta_textarea_editor:
-  - '<a href="#">bbbb</a>'
+  - 'a:1:{i:0;s:20:"<a href="#">bbbb</a>";}'
 ---
 павпвап <a href="#">вап вапв</a>
