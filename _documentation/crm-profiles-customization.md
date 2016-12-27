@@ -39,18 +39,18 @@ In each profile’s tab you may see general list of access settings to EasyERP�
 
 You may create as many profile types as you need and set different access rights to each of them. Adding a group may be done in a few simple steps:
 <ol>
-	<li>Press the “Add” button <strong>+</strong>, located in the top left corner of the screen.</li>
-	<li>Previous action opens the menu for creating a group, where you may insert data about the profile:</li>
+ 	<li>Press the “Add” button <strong>+</strong>, located in the top left corner of the screen.</li>
+ 	<li>Previous action opens the menu for creating a group, where you may insert data about the profile:</li>
 </ol>
 <ul>
-	<li>Profile Name - textfield to enter the name of a profile. It should contain two or more symbols and cannot be empty.</li>
-	<li>Description - textfield to enter a description for a profile.</li>
-	<li>Use base profile and edit privileges - checkbox, with the help of which you may create a profile, access rights of which will be the same as existing profiles group possess and may be edited after saving.</li>
-	<li>Base Profile - choose a profile, access rights of which will be used as the basis for newly created one (if “Use base profile and edit privileges” option is chosen).</li>
-	<li>Create new profile from scratch - checkbox, with the help of which you may create a profile, access rights of which will be empty and may be edited after saving.</li>
+ 	<li>Profile Name - textfield to enter the name of a profile. It should contain two or more symbols and cannot be empty.</li>
+ 	<li>Description - textfield to enter a description for a profile.</li>
+ 	<li>Use base profile and edit privileges - checkbox, with the help of which you may create a profile, access rights of which will be the same as existing profiles group possess and may be edited after saving.</li>
+ 	<li>Base Profile - choose a profile, access rights of which will be used as the basis for newly created one (if “Use base profile and edit privileges” option is chosen).</li>
+ 	<li>Create new profile from scratch - checkbox, with the help of which you may create a profile, access rights of which will be empty and may be edited after saving.</li>
 </ul>
 <ol start="3">
-	<li>Create - clicking here, you will create a new profile with all the information given above.</li>
+ 	<li>Create - clicking here, you will create a new profile with all the information given above.</li>
 </ol>
 <a href="https://easyerp.com/wp-content/uploads/2015/10/341-5.png"><img class="aligncenter size-full wp-image-1075" src="https://easyerp.com/wp-content/uploads/2015/10/341-5.png" alt="create profile" width="600" height="237" /></a>
 
@@ -82,7 +82,7 @@ You should note, that when “Delete” access right are granted to this or that
 
 You also may delete profiles from the database. To delete a profile the following sequence of action is required:
 <ol>
-	<li>Choose a needed profile from the list in the side menu of “Profiles” menu screen.</li>
+ 	<li>Choose a needed profile from the list in the side menu of “Profiles” menu screen.</li>
 </ol>
 <a href="https://easyerp.com/wp-content/uploads/2015/10/341-2.png"><img class="aligncenter size-full wp-image-1072" src="https://easyerp.com/wp-content/uploads/2015/10/341-2.png" alt="profiles view mode" width="800" height="165" /></a>
 
