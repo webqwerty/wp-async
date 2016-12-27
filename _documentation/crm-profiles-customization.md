@@ -8,7 +8,7 @@ permalink: >
   http://easyerp.co/documentation/crm-profiles-customization/
 published: true
 ---
-EasyERP allows you to create types of profiles with different level of access to the functions of the system. It allows to build secure and simple database, where each user, depending on his status, position, etc., will be able to view, edit and delete certain kinds of data.
+EasyERP allows you to create types of profiles with different level of access to the functions of the system. It allows to build secure and simple database, where each user, depending on his status, position, etc., will be able to view, edit and delete certain kinds of data!
 
 <a href="https://easyerp.com/wp-content/uploads/2015/10/341.png"><img class="aligncenter size-full wp-image-1070" src="https://easyerp.com/wp-content/uploads/2015/10/341.png" alt="managing profiles" width="800" height="264" /></a>
 
